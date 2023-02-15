@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_failed_icon.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\failed_icon.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_forgot_custom.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\forgot_custom.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_team.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_team.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_payment_details.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_payment_details.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_balance.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\balance.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_mobile.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\mobile.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_sucess_icon.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\sucess_icon.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_per_over.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_per_over.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_bowling.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\fragment_bowling.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_wallet.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_camera.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\camera.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_name.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\name.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_player_custom.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\player_custom.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_batting.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\fragment_batting.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_bowling_custom.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\bowling_custom.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_main_.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\fragment_main_.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_spinner_toss.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_spinner_toss.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_view_pager_adapter.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_view_pager_adapter.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_bg.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_bg.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_password.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\password.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_payment.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_team.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_team.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_offer.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_offer.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_batting.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_batting.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_spinner_amount.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_spinner_amount.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_player_first.jpg.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\player_first.jpg"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_failed_dialog.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\failed_dialog.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_open_dashboard.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\activity_open_dashboard.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_toss.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_toss.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_success_dialog.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\success_dialog.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_player_second.jpg.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\player_second.jpg"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_amount.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_amount.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_email.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\email.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_layout_bg.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_ground.jpg.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\ground.jpg"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_bowling.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_bowling.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle_ind.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\circle_ind.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_drop_order_custom.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\drop_order_custom.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_demo.jpg.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\demo.jpg"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_second.jpg.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\second.jpg"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_match.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_match.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_over.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\layout\\custom_over.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\build\\intermediates\\merged_res\\debug\\drawable_first.jpg.flat",
+        "source": "F:\\Sachin\\Kotlin_Project\\IPLCRICBAT\\app\\src\\main\\res\\drawable\\first.jpg"
+    }
+]

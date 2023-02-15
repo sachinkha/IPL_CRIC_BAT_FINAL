@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.planet.iplcricbat">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TaTaIPLSATA"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.planet.iplcricbat.Per_over"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.Open_Dashboard"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.Payment_Details"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.Payment"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.Wallet"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.Profile"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.TEAM"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.SignUp"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.Login"
+            android:exported="false" />
+        <activity
+            android:name="com.planet.iplcricbat.Splash_Screen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_p82U9wOnZRzcPK" />
+    </application>
+
+</manifest>

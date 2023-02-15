@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/ground"
+    android:orientation="vertical"
+    tools:context=".Open_Dashboard">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/welcome_to_the_official_nipl_cric_bat_season"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:gravity="center"
+        android:weightSum="3">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:src="@drawable/player_first" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/logo" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:src="@drawable/player_second" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Dear User\nPlay Cric bat &amp; enjoy\n2X or more winnings."
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:weightSum="2">
+
+
+        <Button
+            android:id="@+id/play_now"
+            android:background="@drawable/button_bg"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="@string/play_now"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/add_cash"
+            android:background="@drawable/button_bg"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="@string/add_cash"
+            android:layout_marginStart="10dp"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TaTa_IPL_SATA.iml" filepath="$PROJECT_DIR$/.idea/modules/TaTa_IPL_SATA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaTa_IPL_SATA.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

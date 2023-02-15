@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">IPL CRIC BAT</string>
+    <string name="login">Login</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="SignUp">SignUp</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="you">You have already account?</string>
+    <string name="you_have_not">Don\'t have an account? </string>
+    <string name="email">Email</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Profile</string>
+    <string name="menu_slideshow">Wallet</string>
+    <string name="menu_tools">Team</string>
+    <string name="menu_share">Per Over</string>
+    <string name="menu_send">Send</string>
+    <string name="who_will_win_the_toss">Which team win the toss</string>
+    <string name="demo">Demo</string>
+    <string name="refer_code">Refer Code(Optional)</string>
+    <string name="upload">Set</string>
+    <string name="who_will_win_the_match">Which team win the match</string>
+    <string name="Team">TEAM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="over_details">Over Details</string>
+    <string name="otp">OTP</string>
+    <string name="profile">Profile</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="add_amount">Add amount</string>
+    <string name="rs_0">Rs.00</string>
+    <string name="wallet">Wallet</string>
+    <string name="payment">Payment</string>
+
+    <string name="notes">Add money or bouns money cant withdrawal only winning amount withdwalabled </string>
+    <string name="add_money">Add Money</string>
+    <string name="bouns_money">Bouns Money</string>
+    <string name="winning_money">Winning Money</string>
+    <string name="total">Total</string>
+    <string name="pay_now">Add now</string>
+    <string name="match">Match</string>
+    <string name="team_wise_bat">Player Wise Bat</string>
+    <string name="per_over_bat">Per Ball Wish Bat</string>
+    <string name="payment_details">Withdrawal</string>
+    <string name="transaction_i_d">Transaction I\'d</string>
+    <string name="upi_i_d">UPI I\'D</string>
+    <string name="paytm_no">PayTm No.</string>
+    <string name="amount">Amount</string>
+    <string name="submit">Submit</string>
+    <string name="enter_run">Enter Run</string>
+    <string name="add_fund">Add Fund</string>
+    <string name="welcome_to_the_official_nipl_cric_bat_season">Welcome to the official\nIPL CRIC BAT Season.</string>
+    <string name="play_now">Play now</string>
+    <string name="add_cash">Add Cash</string>
+    <string name="vs">VS</string>
+    <string name="enter_wicker">Enter wicket</string>
+    <string name="bank_details">Bank Details</string>
+    <string name="enter_upi_i_d">Enter UPI I\'d</string>
+    <string name="enter_paytm_no">Enter Paytm No.</string>
+    <string name="enter_account_number">Account number</string>
+    <string name="ifsc_code">IFSC Code</string>
+    <string name="holder_name">Holder Name</string>
+    <string name="select_withdrawal_type">Select Withdrawal Type</string>
+    <string name="upi">UPI</string>
+    <string name="paytm">Paytm</string>
+    <string name="bank">Bank</string>
+    <string name="enter_ball">Enter Ball</string>
+    <string name="enter_your_guess_run">Enter your guess run</string>
+    <string name="new_password">New Password</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_email">Enter email</string>
+    <string name="refer_amp_earn"><![CDATA[Refer & earn]]></string>
+    <string name="value">\u20B9 . 10000</string>
+    <string name="please_use">PLEASE USE THESE ACCOUNT NUMBER AND UPI NUMBER FOR PAYMENT</string>
+    <string name="account_details">Account Details :</string>
+    <string name="account_holder_name">HOLDER NAME :</string>
+    <string name="vaibhav_khanderao_patil">VAIBHAV KHANDERAO PATIL</string>
+    <string name="account_number">Account Number :</string>
+    <string name="_258976251805">258976251805</string>
+    <string name="ifsc">IFSC :</string>
+    <string name="indb0000093">Indb0000093</string>
+    <string name="phone_pe_upi_id">PHONE PE Details :</string>
+    <string name="vaibhavp7472_indus">vaibhavp7472@indus</string>
+    <string name="phone_pe_no">Phone Pe no :</string>
+    <string name="_8976251805">8976251805</string>
+    <string name="google_pay_details">GOOGLE PAY Details :</string>
+    <string name="google_pay_upi">GOOGLE PAY No :</string>
+    <string name="paytm_details">PAYTM Details :</string>
+    <string name="paytm_upi">PAYTM UPI :</string>
+    <string name="paytm_no_">Paytm No :</string>
+    <string name="enter_transaction_i_d">Enter Transaction I\'d</string>
+    <string name="upload_screen_shot">Upload Screen Shot</string>
+
+
+</resources>
